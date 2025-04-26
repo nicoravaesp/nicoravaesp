@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Nicolás Ravanal</h1>
-<h3 align="center">Desarrollador Python Junior apasionado por la Inteligencia Artificial Generativa</h3>
+<h3 align="center">Desarrollador Python Junior apasionado por la Inteligencia Artificial Generativa y Machine Learning</h3>
 
 ---
 
