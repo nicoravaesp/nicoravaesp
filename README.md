@@ -1,35 +1,35 @@
 <h1 align="center" style="font-size: 3em; color: #58A6FF;">🧠 Nicolás Ravanal Espinoza</h1>
 
 <p align="center" style="color: #C9D1D9;">
-Desarrollador enfocado en IA Generativa y Machine Learning, potenciando soluciones inteligentes para el futuro.
+Desarrollador enfocado en <strong>IA Generativa</strong> y <strong>Machine Learning</strong>, potenciando soluciones inteligentes para el futuro.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=435&lines=🚀+Desarrollador+IA+Generativa;⚡+Apasionado+por+Machine+Learning;🎯+Creador+de+soluciones+inteligentes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=🚀+Desarrollador+IA+Generativa;⚡+Apasionado+por+Machine+Learning;🎯+Creador+de+soluciones+inteligentes" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Proyecto Destacado: Chatbot IA Generativa
+## 🚀 Proyecto Destacado: **Chatbot IA Generativa**
 
 <p align="center">
   <img src="https://github.com/nicoravaesp/chat/raw/main/preview.gif" alt="Chatbot Demo" width="70%" />
 </p>
 
-**Un chatbot basado en tecnologías de IA moderna:**
+Un chatbot basado en tecnologías de IA moderna:
 
 - 🔥 **OpenAI API** para IA conversacional.
-- 💬 **Flask** + **HTML5/CSS3/JS**.
-- 🌓 Modo Claro / Oscuro.
-- 🎙️ Reconocimiento de voz.
-- 🌎 Despliegue profesional con **Render** y listo para **Docker**.
+- 💬 **Flask + HTML5 + CSS3 + JavaScript**.
+- 🌙 **Modo Claro / Oscuro**.
+- 🎙️ **Reconocimiento de voz**.
+- 🚀 **Despliegue profesional con Render + Docker**.
 
 ---
 
 ## 🛠️ Tecnologías & Herramientas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,flask,react,docker,vscode,jupyter,anaconda,openai,render&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,flask,react,docker,vscode,anaconda,jupyter,openai,render&theme=dark" alt="Tecnologías" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Desarrollador enfocado en IA Generativa y Machine Learning, potenciando solucion
 
 ---
 
-## 📫 Conecta Conmigo
+## 📬 Contacto
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nicolas-ravanal-espinoza-a440a81b9/" target="_blank">
@@ -50,7 +50,7 @@ Desarrollador enfocado en IA Generativa y Machine Learning, potenciando solucion
 </a>
 &nbsp;
 <a href="mailto:nicolasandresravanal@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://github.com/nicoravaesp/chat" target="_blank">
@@ -60,7 +60,8 @@ Desarrollador enfocado en IA Generativa y Machine Learning, potenciando solucion
 
 ---
 
-<p align="center">
+<p align="center" style="color: #58A6FF; font-style: italic;">
 🌟 "La inteligencia artificial es el arte de enseñarle creatividad a las máquinas." 🌟
 </p>
+
 
